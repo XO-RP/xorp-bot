@@ -1,1 +1,1 @@
-# xorp-bot
+# bot
